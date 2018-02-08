@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Rishikesh Belapurkar 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Motivated to improve India School Education
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rishikeshb@gmail.com](mailto:rishikeshb@gmail.com)

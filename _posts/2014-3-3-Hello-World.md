@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: We are coming soon!Stay Tuned..
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We are team of education enthusiast and committed to make India better by generating toppers. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml](https://www.franchiseindia.com/uploads/content/edu/art/377938ddd0fd236e7c1ebddb6ad-82b3f25d99.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.

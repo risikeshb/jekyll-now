@@ -1,10 +1,11 @@
 ---
 layout: post
-title: We are coming soon!Stay Tuned..
+title: Hi I am Rishikesh.  Are you interested in Currency Trading in India. Please watch out this space
+
 ---
 
-We are team of education enthusiast and committed to make India better by generating toppers. 
+Get all top picks of currency trades and Ideas over here 
 
-![_config.yml](https://www.franchiseindia.com/uploads/content/edu/art/377938ddd0fd236e7c1ebddb6ad-82b3f25d99.png)
+![_config.yml](Image hyperlink)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
